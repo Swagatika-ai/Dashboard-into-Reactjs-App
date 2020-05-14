@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Embedding-Dashboard-into-Reactjs-App/static/js/main.eb98a8f5.chunk.js",
+    "main.js.map": "/Embedding-Dashboard-into-Reactjs-App/static/js/main.eb98a8f5.chunk.js.map",
+    "runtime-main.js": "/Embedding-Dashboard-into-Reactjs-App/static/js/runtime-main.b58da8cb.js",
+    "runtime-main.js.map": "/Embedding-Dashboard-into-Reactjs-App/static/js/runtime-main.b58da8cb.js.map",
+    "static/js/2.3962f933.chunk.js": "/Embedding-Dashboard-into-Reactjs-App/static/js/2.3962f933.chunk.js",
+    "static/js/2.3962f933.chunk.js.map": "/Embedding-Dashboard-into-Reactjs-App/static/js/2.3962f933.chunk.js.map",
+    "index.html": "/Embedding-Dashboard-into-Reactjs-App/index.html",
+    "precache-manifest.03acd34a7fc95b6133c1100d257f008d.js": "/Embedding-Dashboard-into-Reactjs-App/precache-manifest.03acd34a7fc95b6133c1100d257f008d.js",
+    "service-worker.js": "/Embedding-Dashboard-into-Reactjs-App/service-worker.js",
+    "static/js/2.3962f933.chunk.js.LICENSE.txt": "/Embedding-Dashboard-into-Reactjs-App/static/js/2.3962f933.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58da8cb.js",
+    "static/js/2.3962f933.chunk.js",
+    "static/js/main.eb98a8f5.chunk.js"
+  ]
+}
